@@ -1,0 +1,16 @@
+IndentWidth: '4'
+NamespaceIndentation: All
+SpacesInParentheses: 'true'
+SpacesInSquareBrackets: 'true'
+
+# indent preprocessing directives
+IndentPPDirectives: AfterHash
+
+#indent switch case statements
+IndentCaseLabels: 'true'
+
+#disable sorting of includes
+SortIncludes: 'false'
+
+
+ColumnLimit: 0
